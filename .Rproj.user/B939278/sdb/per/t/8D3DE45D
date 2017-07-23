@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#Set our working directory. \n#This helps avoid confusion if our working directory is \n#not our site because of other projects we were \n#working on at the time. \nsetwd(\"C:/Users/cbree/Documents/GitHub/rmkdwnleaflet-cb.io\")\n\n# render the entire site\nrmarkdown::render_site()\n",
+    "created" : 1500838013499.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "6746280",
+    "id" : "8D3DE45D",
+    "lastKnownWriteTime" : 1500837519,
+    "last_content_update" : 1500837519,
+    "path" : "~/GitHub/rmkdwnleaflet-cb.io/build_site.R.R",
+    "project_path" : "build_site.R.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
