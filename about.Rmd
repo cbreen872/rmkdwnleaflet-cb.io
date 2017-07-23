@@ -1,1 +1,10 @@
+---
+title: "Leaflet"
+---
 
+```{r echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng =  -76.154480, lat = 43.088947, zoom = 6)
+``` 

@@ -1,1 +1,9 @@
-
+name: "Week 2 Assignment"
+output_dir: "."
+navbar:
+  title: "Week 2 Assignment"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
